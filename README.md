@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# D3vb00t Scyentist
+# D3vb00t Scientist
 <sub>*Lead Data Scientist*</sub>
 
 As a experienced Data Scientist and Security Analist, having spend my time (good time, by the way) applying Machine Learning to real problems, in my life.
